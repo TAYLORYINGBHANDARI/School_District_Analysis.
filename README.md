@@ -5,10 +5,10 @@
 
 ## Overview 
 
-The school board has discovered the students_complete.csv file shows evidence of academic dishonesty; especifically, reading and math grades for Thomas High School ninth graders appear to have been altered. In order to uphold the standards, Maria would like us to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
+The school board has discovered the students_complete.csv file shows evidence of academic dishonesty; especially, reading and math grades for Thomas High School ninth graders appear to have been altered. In order to uphold the standards, Maria would like us to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
 And then perform an analysis to compare the changes and how the overall analysis gets affected. 
 
-### completing tasks:
+### completing tasks
 
     1. Replace reading and math scores to NaNs for Thomas High School ninth grade.
     2. Repeat the district summary
@@ -27,7 +27,7 @@ And then perform an analysis to compare the changes and how the overall analysis
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/85265816/125210703-22e6ec00-e267-11eb-9284-c1f71534c8f2.png">
 
 
-* New School District Summary vs Old School District Summary
+* New School District Summary 
 
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/85265816/125210723-385c1600-e267-11eb-9682-816aa52a593c.png">
 
@@ -75,13 +75,11 @@ The large size school only has 58% passing rate.
 
 ![image](https://user-images.githubusercontent.com/85265816/125211251-ad7d1a80-e26a-11eb-8223-fc89faf93c6c.png)
 
-Charter type of school is having a better performace in every catergory.Overall passing percentage is near 90%.
+Charter type of school is having a better performace in every catergory. Overall passing percentage is near 90%.
 District school's overall percentage is only 54%.
 
-## Summary:
+## Summary
 
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
 Although,there were 461 students' math and reading score got replaced with NaNs in Thomas High School.
 This impact on the scores was very insignificant in every category .
 
