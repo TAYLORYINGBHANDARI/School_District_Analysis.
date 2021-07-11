@@ -8,7 +8,7 @@
 The school board has discovered the students_complete.csv file shows evidence of academic dishonesty; especifically, reading and math grades for Thomas High School ninth graders appear to have been altered. In order to uphold the standards, Maria would like us to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
 And then perform an analysis to compare the changes and how the overall analysis gets affected. 
 
-###completing tasks:
+### completing tasks:
 
     1. Replace reading and math scores to NaNs for Thomas High School ninth grade.
     2. Repeat the district summary
@@ -21,9 +21,10 @@ And then perform an analysis to compare the changes and how the overall analysis
     9. Finding the new scores by school spending by school type
 
 
-## Results:
+## Results
 
 * Replaced results
+Resources/pics/repalce_9th_NaN.png
 
 * School District Summary
 
