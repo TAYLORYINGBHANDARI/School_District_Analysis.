@@ -33,10 +33,12 @@ And then perform an analysis to compare the changes and how the overall analysis
 
 <img width="912" alt="image" src="https://user-images.githubusercontent.com/85265816/125210749-63466a00-e267-11eb-9447-dc2a09bc7d1f.png">
 
+    - the average math score and reading score almost stayed the same
+    - percentage passing math dropped by 1 percent
+    - the percentage passing reading dropped by 1 percent
+    - the overall passing percent dropped 1 percent
 
-
-* New School Summary vs Old School Summary
-
+* New School Summary 
 <img width="995" alt="image" src="https://user-images.githubusercontent.com/85265816/125210758-6ccfd200-e267-11eb-9bde-56a83733d165.png">
 
 <img width="1010" alt="image" src="https://user-images.githubusercontent.com/85265816/125210764-735e4980-e267-11eb-8992-d3d7c3153c30.png">
@@ -65,13 +67,27 @@ And then perform an analysis to compare the changes and how the overall analysis
 
 ![image](https://user-images.githubusercontent.com/85265816/125211240-9ccca480-e26a-11eb-8190-fb4fd3370ad7.png)
 
+Small and medium size school are having way better performances.
+The large size school only has 58% passing rate.
+
 * School Type Summary
 
 
 ![image](https://user-images.githubusercontent.com/85265816/125211251-ad7d1a80-e26a-11eb-8223-fc89faf93c6c.png)
 
+Charter type of school is having a better performace in every catergory.Overall passing percentage is near 90%.
+District school's overall percentage is only 54%.
 
 ## Summary:
 
 
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+Although,there were 461 students' math and reading score got replaced with NaNs in Thomas High School.
+This impact on the scores was very insignificant in every category .
+
+- the average math score and reading score almost stayed the same
+- percentage passing math dropped by 1 percent
+- the percentage passing reading dropped by 1 percent
+- the overall passing percent dropped 1 percent
+
+This report did reveal some intersting aspects related to school performaces.The lower the spending range, the higher students performances.The small and medium school sizes also have a higher passing percentage over the larger school sizes. Between Charter and District schools, District schools is having a very low passing rate, 36% lower than the Charter school.
