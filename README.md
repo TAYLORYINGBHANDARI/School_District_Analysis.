@@ -50,16 +50,28 @@ And then perform an analysis to compare the changes and how the overall analysis
 
 <img width="990" alt="image" src="https://user-images.githubusercontent.com/85265816/125210793-8ec95480-e267-11eb-99f4-f2c9e46ed55e.png">
 
-* New Average Math Scores by Grade 
+* New Average Math and Reading Scores by Grade 
+
+<img width="307" alt="image" src="https://user-images.githubusercontent.com/85265816/125211216-7d357c00-e26a-11eb-9eee-9fdc07b595cd.png">
+
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/85265816/125211223-84f52080-e26a-11eb-980d-7d94a1fdf798.png">
 
 
-
-* New Average Math Scores by School
 * New School Spending Summary
+
+![image](https://user-images.githubusercontent.com/85265816/125211233-92aaa600-e26a-11eb-88b6-7d8d70ff0a6d.png)
+
 * School Size Summary
+
+![image](https://user-images.githubusercontent.com/85265816/125211240-9ccca480-e26a-11eb-8190-fb4fd3370ad7.png)
+
 * School Type Summary
 
 
+![image](https://user-images.githubusercontent.com/85265816/125211251-ad7d1a80-e26a-11eb-8223-fc89faf93c6c.png)
+
+
 ## Summary:
+
 
 There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
